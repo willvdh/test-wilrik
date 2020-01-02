@@ -7,6 +7,8 @@ Deze regel behoort tot dezelfde alinea.
 
 - opsomming
 - opsomming 2
+- ha de domme opsomming van Willem !!!
+- Rik is stom
 
 ## Subtitel 2
 
